@@ -8,6 +8,7 @@
 - How its work:-
 Basically we have inputted some words, number and special characters using its Code shuffle its and make password of 12 letter length.
 
+- Demo link :- [Click Here](https://knight070409.github.io/30Days-Of-JavaScript/Day%2001%20-%20Random%20Password%20Generator/)
 
 - Javascript Code:-
 ```
@@ -49,3 +50,4 @@ const words = ['BOB', 'BAM', 'BND', 'XOF', 'BIF','yhf','miy','my','hello','world
     return words[number]
   }
   ```
+  
