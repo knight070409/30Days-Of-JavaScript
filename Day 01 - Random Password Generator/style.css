@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+body{
+    font-family: 'Arvo',serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(41, 42, 53);
+    color: rgb(255, 255, 255);
+}
+
+.heading{
+    padding-bottom: 50px;
+    font-size: 2rem;
+}
+
+.input-box{
+    position: relative;
+    width: 400px;
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+    z-index: 1000;
+}
+
+.input-box input{
+    position: relative;
+    width: 100%;
+    height: 30px;
+    margin: 20px 0 20px;
+    padding: 0 20px;
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    letter-spacing: 3px;
+    text-align: center;
+    outline: none;
+}
+
+#button{
+    position: relative;
+    margin-top: 50px;
+    padding: 15px;
+    background: rgba(51, 255, 0, 0.592);
+    border-radius: 10px;
+    color:rgb(255, 255, 255);
+    font-size: 24px;
+    cursor: pointer;
+}
+
+#button:active{
+    background: rgb(255, 255, 255);
+    color: #000;
+}
+
+#username{
+    position: bottom;
+    text-align:center;
+    
+}
+
+.builder {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+    
+  }
+ a{
+    color: rgb(255, 0, 144);
+ }
