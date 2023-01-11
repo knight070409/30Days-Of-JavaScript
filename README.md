@@ -9,6 +9,7 @@ Repository containing all the projects made in 30 Days while completing the 30 D
 | Days  | Name                                                                   |
 | ----------------- | ------------------------------------------------------------------ |
 |01|[Random Password Generator](https://knight070409.github.io/30Days-Of-JavaScript/Day%2001%20-%20Random%20Password%20Generator/) |
+|02|[Weight Converter](https://knight070409.github.io/30Days-Of-JavaScript/Day%2002%20-%20Weight%20Converter/)|
 
 
 
