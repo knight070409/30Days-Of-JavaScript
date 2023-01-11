@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(136, 127, 127);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+    color: aliceblue;
+}
+
+.container{
+    position: absolute;
+    top: 25%;
+    min-height: auto;
+    width: auto;
+    padding: 25px;
+    color: aliceblue;
+    background: black;
+    border-radius: 15px;
+    font-size: 35px;
+}
+
+.heading{
+    padding: 5px 10px;
+    padding-bottom: 2px;
+}
+
+#input{
+    border: none;
+    border-bottom: 1.5px solid whitesmoke;
+    background: transparent;
+    color: aliceblue;
+    position: relative;
+    font-size: 20px;
+    left: 15px;
+    outline: none;
+}
+
+#converter{
+    padding: 10px;
+}
+
+select{
+    outline: none;
+    font-size: 20px;
+}
+
+button{
+    width: fit-content;
+    text-align: center;
+    margin: 15px 100px;
+    padding: 10px;
+    background: white;
+    color: rgb(0, 0, 0);
+    font-size: 1.3rem;
+    margin-bottom: 0px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+button:active{
+    background: rgb(20, 54, 147);
+    color: rgb(255, 255, 255);
+}
+
+#output{
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 25px;
+    color: aqua;
+}
+
+.build{
+    background: rgb(1, 1, 1);
+    border-radius: 25px;
+    width: 250px;
+    text-align: center;
+    font-size: 1rem;
+    text-decoration: solid;
+    margin-top: 15px;
+    padding: 20px;
+    position: absolute;
+    bottom: 10px;
+    color: goldenrod;
+}
+
+a{
+    color: goldenrod;
+}
