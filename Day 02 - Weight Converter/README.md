@@ -1,4 +1,3 @@
-
 # Day 02
 
 # Weight Converter
