@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container{
+    position: relative;
+    width: 100%;
+    height: 99.9vh;
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    color: rgb(190, 193, 195);
+    text-align: center;
+    position: absolute;
+    top: 30px;
+    font-size: 25px;
+    text-decoration: solid underline;
+}
+
+.snow{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 30px;
+    height: 30px;
+    background-image: url(img/snow_.png);
+    background-size: cover;
+    animation: animationSnow 4s ease-in-out infinite;
+}
+
+@keyframes animationSnow{
+    0%{
+        transform: translate(0,0);
+        opacity: 0;
+    }
+    50%{
+        opacity: 1;
+    }
+
+    100%{
+        opacity: 0;
+        transform: translate(100px,50vh);
+    }
+}
+
+.build{
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 25px;
+    width: 250px;
+    left: 40%;
+    text-align: center;
+    font-size: 1.25rem;
+    text-decoration: solid;
+    margin-top: 15px;
+    padding: 20px;
+    position: absolute;
+    bottom: 10px;
+    color: rgb(213, 213, 213);
+}
+
+a{
+    color: rgb(196, 133, 8);
+    text-decoration: none;
+}
