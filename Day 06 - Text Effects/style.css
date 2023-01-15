@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    color: floralwhite;
+}
+
+#heading{
+    font-size: 2rem;
+    margin: 20px;
+}
+
+.builder{
+    padding: 10px;
+    position: absolute;
+    bottom: 20px;
+    border-radius: 15px;
+    width: -fit-content;
+    text-align: center;
+    background: whitesmoke;
+    color: black;
+    font-size: 1.25rem;
+}
+
+ a{
+    color: #5b12c3;
+ }
