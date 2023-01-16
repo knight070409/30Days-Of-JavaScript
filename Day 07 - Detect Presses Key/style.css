@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'PT Serif', serif;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgb(0, 0, 0);
+    color: lightgoldenrodyellow;    
+}
+
+.heading{
+    padding-bottom: 50px;
+    font-size: 2rem;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#output{
+    width: auto;
+    padding: 50px 30px;
+    background: whitesmoke;
+    color: black;
+    text-align: center;
+    border-radius: 25px;
+    font-size: 2.2rem;
+}
+
+#output div{
+    padding: 5px;
+}
+
+span{
+    color:rgb(33, 144, 88);
+}
+
+.build{
+    background: rgb(255, 255, 255);
+    width: 250px;
+    border-radius: 20px;
+    left: 40%;
+    text-align: center;
+    margin-top: 15px;
+    padding: 20px;
+    position: absolute;
+    bottom: 10px;
+    color: rgb(0, 0, 0);
+}
+
+a{
+    color: rgb(31, 83, 173);
+}
