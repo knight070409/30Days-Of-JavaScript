@@ -13,6 +13,7 @@ Repository containing all the projects made in 30 Days while completing the 30 D
 |04|[Snow Effects using Javascript](https://knight070409.github.io/30Days-Of-JavaScript/Day%2004%20-%20Snow%20Effects%20using%20Javascript/)|
 |05|[Progress Bar via Input value](https://knight070409.github.io/30Days-Of-JavaScript/Day%2005%20-%20Progress%20Bar%20via%20Input%20value/)|
 |06|[Text Effects](https://knight070409.github.io/30Days-Of-JavaScript/Day%2006%20-%20Text%20Effects/)|
+|07|[Detect Presses Key](https://knight070409.github.io/30Days-Of-JavaScript/Day%2007%20-%20Detect%20Presses%20Key/)|
 
 
 
