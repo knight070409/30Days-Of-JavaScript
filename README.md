@@ -15,6 +15,8 @@ Repository containing all the projects made in 30 Days while completing the 30 D
 |06|[Text Effects](https://knight070409.github.io/30Days-Of-JavaScript/Day%2006%20-%20Text%20Effects/)|
 |07|[Detect Presses Key](https://knight070409.github.io/30Days-Of-JavaScript/Day%2007%20-%20Detect%20Presses%20Key/)|
 |08|[Get Mouse Position](https://knight070409.github.io/30Days-Of-JavaScript/Day%2008%20-%20Mouse%20Position/)|
+|09|[Student Grade Calculator](https://knight070409.github.io/30Days-Of-JavaScript/Day%2009%20-%20Student%20Grade%20Calculator/)|
+
 
 
 
