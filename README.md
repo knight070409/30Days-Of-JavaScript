@@ -18,6 +18,7 @@ Repository containing all the projects made in 30 Days while completing the 30 D
 |09|[Student Grade Calculator](https://knight070409.github.io/30Days-Of-JavaScript/Day%2009%20-%20Student%20Grade%20Calculator/)|
 |10|[Px to Em Converter](https://knight070409.github.io/30Days-Of-JavaScript/Day%2010%20-%20Converter%20Px%20to%20Em/)|
 |11|[Dice Roller](https://knight070409.github.io/30Days-Of-JavaScript/Day%2011%20-%20Dice%20Roller/)|
+|12|[Random Color Code Generator](https://knight070409.github.io/30Days-Of-JavaScript/Day%2012%20-%20Random%20color%20code%20generator/)|
 
 
 
