@@ -20,6 +20,7 @@ Repository containing all the projects made in 30 Days while completing the 30 D
 |11|[Dice Roller](https://knight070409.github.io/30Days-Of-JavaScript/Day%2011%20-%20Dice%20Roller/)|
 |12|[Random Color Code Generator](https://knight070409.github.io/30Days-Of-JavaScript/Day%2012%20-%20Random%20color%20code%20generator/)|
 |13|[Password Strength Checker](https://knight070409.github.io/30Days-Of-JavaScript/Day%2013%20-%20Password%20Strength%20Checker/)|
+|14|[Digital Clock](https://knight070409.github.io/30Days-Of-JavaScript/Day%2014%20-%20Digital%20Clock/)|
 
 
 
