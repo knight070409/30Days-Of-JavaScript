@@ -30,6 +30,7 @@ Repository containing all the projects made in 30 Days while completing the 30 D
 |21|[Mission Ganga game](https://knight070409.github.io/30Days-Of-JavaScript/Day%2021%20-%20Mission%20Ganga%20game/)|
 |22|[Mission Ganga game](https://knight070409.github.io/30Days-Of-JavaScript/Day%2022%20-%20Mission%20Ganga%20game/)|
 |23|[Mission Ganga game](https://knight070409.github.io/30Days-Of-JavaScript/Day%2023%20-%20Mission%20Ganga%20game/)|
+|24|[Mission Ganga game](https://knight070409.github.io/30Days-Of-JavaScript/Day%2024%20-%20Mission%20Ganga/)|
 
 
 
